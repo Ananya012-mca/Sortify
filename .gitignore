@@ -1,0 +1,6 @@
+"venv/" 
+"__pycache__/" 
+"node_modules/" 
+"ml-model/data/" 
+"ml-model/export/" 
+".env" 
