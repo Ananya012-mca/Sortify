@@ -1,6 +1,9 @@
-"venv/" 
-"__pycache__/" 
-"node_modules/" 
-"ml-model/data/" 
-"ml-model/export/" 
-".env" 
+__pycache__/
+*.pyc
+venv/
+.env
+node_modules/
+ml-model/data/
+ml-model/export/
+.DS_Store
+kaggle.json
