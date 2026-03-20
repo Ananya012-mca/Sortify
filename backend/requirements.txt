@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-pymongo
+flask-bcrypt
+flask-jwt-extended
+numpy<2.0
+tensorflow
+pillow

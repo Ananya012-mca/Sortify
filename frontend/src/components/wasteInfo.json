@@ -1,0 +1,170 @@
+{
+  "cardboard": {
+    "name": "Cardboard",
+    "icon": "📦",
+    "color": "#8B4513",
+    "description": "Cardboard boxes, paper tubes, and corrugated packaging materials.",
+    "type": "Paper & Packaging",
+    "disposalMethods": [
+      "Flatten boxes and place in cardboard recycling bin",
+      "Remove any plastic tape or non-cardboard materials first",
+      "Keep dry - wet cardboard cannot be recycled",
+      "Break down into smaller pieces if too large",
+      "Tie with twine if using multiple boxes"
+    ],
+    "benefits": [
+      "Cardboard is highly recyclable - recycled over 70% of the time",
+      "Can be recycled 5-7 times before fibers become too short",
+      "Reduces landfill waste and saves trees",
+      "Recycling 1 ton prevents 9 tons of waste from landfills",
+      "Lower environmental impact compared to new production"
+    ],
+    "tips": [
+      "Always recycle cardboard at dedicated facilities",
+      "Don't mix with contaminated materials",
+      "Compress boxes to save space",
+      "Clean off any food residue",
+      "Stack boxes neatly for collection"
+    ]
+  },
+  "glass": {
+    "name": "Glass",
+    "icon": "🍾",
+    "color": "#87CEEB",
+    "description": "Glass bottles, jars, windows, and other glass objects.",
+    "type": "Mineral & Inorganic",
+    "disposalMethods": [
+      "Rinse glass containers thoroughly",
+      "Remove caps and lids (recycle separately)",
+      "Place in designated glass recycling bin",
+      "Keep glass separate from other recyclables to avoid contamination",
+      "Break glass into smaller pieces and wrap in newspaper for safety"
+    ],
+    "benefits": [
+      "Glass is 100% recyclable and can be recycled infinitely",
+      "No quality loss during recycling process",
+      "Recycling glass saves 30% energy compared to making new glass",
+      "Reduces landfill burden as glass doesn't decompose",
+      "Reduces air pollution by 20% and water pollution by 40%"
+    ],
+    "tips": [
+      "Never mix colored and clear glass",
+      "Remove non-glass parts like plastic or cork",
+      "Watch for broken edges - wrap in paper",
+      "Glass takes 1 million years to decompose naturally",
+      "Support glass recycling initiatives in your community"
+    ]
+  },
+  "metal": {
+    "name": "Metal",
+    "icon": "🔩",
+    "color": "#C0C0C0",
+    "description": "Aluminum cans, steel cans, metal containers, and other metal items.",
+    "type": "Metal & Mineral",
+    "disposalMethods": [
+      "Rinse metal containers to remove residue",
+      "Crush cans to save space (optional)",
+      "Place in metal recycling bin",
+      "Flatten aluminum foil or place in ball form",
+      "Keep separate from other materials if possible"
+    ],
+    "benefits": [
+      "Metal is infinitely recyclable - no quality degradation",
+      "Recycling aluminum saves 95% of energy vs. new production",
+      "1 recycled aluminum can saves enough energy to power a laptop for 3 hours",
+      "Prevents mining operations that damage ecosystems",
+      "Reduces greenhouse gas emissions significantly"
+    ],
+    "tips": [
+      "Aluminum is worth money - consider collecting for extra income",
+      "Steel cans are also valuable and highly recyclable",
+      "Magnetic separation helps identify steel vs. aluminum",
+      "Remove paper labels before recycling",
+      "Check local guidelines for metal recycling"
+    ]
+  },
+  "paper": {
+    "name": "Paper",
+    "icon": "📄",
+    "color": "#FFD700",
+    "description": "Newspapers, magazines, office paper, and paper products.",
+    "type": "Organic & Fiber",
+    "disposalMethods": [
+      "Keep paper dry and clean",
+      "Place in paper recycling bin",
+      "Remove plastic windows from envelopes",
+      "Shred confidential documents if needed",
+      "Don't mix with contaminated or wet paper"
+    ],
+    "benefits": [
+      "Paper can be recycled 5-7 times before fibers degrade",
+      "Recycling 1 ton of paper saves 17 trees and 7,000 gallons of water",
+      "Reduces energy consumption by 40% vs. virgin paper",
+      "Prevents methane emissions from landfills",
+      "Paper recycling creates clean air and reduces pollution"
+    ],
+    "tips": [
+      "Shredded paper can be composted instead of recycled",
+      "Keep paper separate from plastic and other materials",
+      "Avoid putting tissues or coated paper in recycling",
+      "Mail with plastic windows should go to trash",
+      "Uncoated newspaper and cardboard are best for recycling"
+    ]
+  },
+  "plastic": {
+    "name": "Plastic",
+    "icon": "🧴",
+    "color": "#FF6B6B",
+    "description": "Plastic bottles, containers, bags, and plastic products.",
+    "type": "Synthetic & Petroleum",
+    "disposalMethods": [
+      "Rinse plastic containers thoroughly",
+      "Check recycling number (1-7) on container",
+      "Remove caps and lids if possible",
+      "Flatten bottles to save space",
+      "Place in plastic recycling bin - check local guidelines for accepted types"
+    ],
+    "benefits": [
+      "Recycling plastic reduces landfill waste (plastic takes 400+ years to decompose)",
+      "Saves crude oil - recycling 1 ton prevents 5.7 tons of CO2 emissions",
+      "Plastic can be recycled into new products (bags, clothing, furniture)",
+      "Reduces ocean pollution and protects marine life",
+      "Lower energy consumption vs. virgin plastic production"
+    ],
+    "tips": [
+      "Not all plastics are recyclable - check number 1-7",
+      "Avoid plastic bags in recycling bins (they jam machinery)",
+      "Remove all food particles before recycling",
+      "Hard plastics (HDPE #2, PETE #1) recycle best",
+      "Consider reusable alternatives to reduce plastic consumption"
+    ]
+  },
+  "trash": {
+    "name": "Trash / Waste",
+    "icon": "🗑️",
+    "color": "#808080",
+    "description": "General waste, organic materials, and non-recyclable items.",
+    "type": "Mixed / Organic",
+    "disposalMethods": [
+      "Place in regular trash/garbage bin",
+      "Compost organic waste separately if available",
+      "Don't mix hazardous materials with regular trash",
+      "Seal bags to prevent spillage",
+      "Follow local regulations for special waste disposal"
+    ],
+    "benefits": [
+      "Proper disposal prevents environmental contamination",
+      "Landfill management protects groundwater and soil",
+      "Some 'trash' can be converted to energy",
+      "Separating recyclables from trash increases efficiency",
+      "Reduces overall environmental impact through proper handling"
+    ],
+    "tips": [
+      "Before throwing away, check if item can be recycled or composted",
+      "Organic waste like food peels can be composted",
+      "Hazardous waste requires special disposal",
+      "Reuse items when possible before discarding",
+      "Educate others about proper waste separation"
+    ]
+  }
+}

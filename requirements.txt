@@ -1,0 +1,14 @@
+# Backend requirements
+flask
+flask-cors
+flask-pymongo
+flask-bcrypt
+flask-jwt-extended
+numpy<2.0
+tensorflow
+pillow
+
+# Chatbot requirements
+# (already in chatbot/requirements.txt but included here for convenience)
+# flask
+# flask-cors

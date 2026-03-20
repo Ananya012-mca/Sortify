@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f5e9"/>
+      <stop offset="100%" stop-color="#f0f7f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="url(#g)"/>
+  <g opacity="0.08" stroke="#2e7d32">
+    <path d="M0 50 H300"/>
+    <path d="M0 100 H300"/>
+    <path d="M0 150 H300"/>
+    <path d="M0 200 H300"/>
+    <path d="M0 250 H300"/>
+    <path d="M50 0 V300"/>
+    <path d="M100 0 V300"/>
+    <path d="M150 0 V300"/>
+    <path d="M200 0 V300"/>
+    <path d="M250 0 V300"/>
+  </g>
+  <g font-family="Segoe UI Emoji, Noto Color Emoji, Apple Color Emoji, sans-serif" font-size="36" fill="#2e7d32" opacity="0.18">
+    <text x="20" y="40">♻</text>
+    <text x="120" y="70">♻</text>
+    <text x="220" y="40">♻</text>
+    <text x="70" y="140">♻</text>
+    <text x="170" y="170">♻</text>
+    <text x="260" y="130">♻</text>
+    <text x="40" y="240">♻</text>
+    <text x="140" y="230">♻</text>
+    <text x="240" y="250">♻</text>
+  </g>
+  <g font-family="Segoe UI Emoji, Noto Color Emoji, Apple Color Emoji, sans-serif" font-size="20" opacity="0.15">
+    <text x="90" y="40">📄</text>
+    <text x="30" y="180">🥤</text>
+    <text x="200" y="220">🥫</text>
+    <text x="250" y="90">🍾</text>
+    <text x="160" y="120">📦</text>
+    <text x="70" y="260">🗑️</text>
+  </g>
+</svg>
