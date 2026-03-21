@@ -9,6 +9,34 @@ This project includes:
 * Chatbot module
 * MongoDB database
 
+## 📸 Screenshots
+
+### 🏠 Home
+![Home](screenshots/home_1.png)
+![Home](screenshots/home_2.png)
+
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 📝 Signup
+![Signup](screenshots/signup.png)
+
+### 👤 Profile
+![Profile](screenshots/profile.png)
+
+### 📤 Upload & Classify
+![Upload](screenshots/upload.png)
+![Upload](screenshots/classify.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/Dashboard_1.png)
+![Dashboard](screenshots/Dashboard_2.png)
+
+### 🎁 Rewards
+![Rewards](screenshots/Rewards.png)
+
+### 🤖 Chatbot
+![Chatbot](screenshots/chatbot.png)
 ---
 
 # 🚀 Setup Guide
