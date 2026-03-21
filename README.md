@@ -12,31 +12,31 @@ This project includes:
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Home](screenshots/home_1.png)
-![Home](screenshots/home_2.png)
+![Home](Screenshots/home_1.png)
+![Home](Screenshots/home_2.png)
 
 ### 🔐 Login
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### 📝 Signup
-![Signup](screenshots/signup.png)
+![Signup](Screenshots/signup.png)
 
 ### 👤 Profile
-![Profile](screenshots/profile.png)
+![Profile](Screenshots/profile.png)
 
 ### 📤 Upload & Classify
-![Upload](screenshots/upload.png)
-![Upload](screenshots/classify.png)
+![Upload](Screenshots/upload.png)
+![Classify](Screenshots/classify.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/Dashboard_1.png)
-![Dashboard](screenshots/Dashboard_2.png)
+![Dashboard](Screenshots/Dashboard_1.png)
+![Dashboard](Screenshots/Dashboard_2.png)
 
 ### 🎁 Rewards
-![Rewards](screenshots/Rewards.png)
+![Rewards](Screenshots/Rewards.png)
 
 ### 🤖 Chatbot
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](Screenshots/chatbot.png)
 ---
 
 # 🚀 Setup Guide
