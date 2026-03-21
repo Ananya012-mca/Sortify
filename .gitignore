@@ -1,5 +1,6 @@
-venv/ 
-__pycache__/ 
-node_modules/ 
-.env 
-venv*/ 
+venv/
+venv_new/
+.venv/
+__pycache__/
+node_modules/
+.env
